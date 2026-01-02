@@ -1,4 +1,4 @@
-## 03 - Basics
+## Basics
 
 ## Remote Backends
 
