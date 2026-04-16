@@ -2,7 +2,8 @@
 
 ## Graph View
 ```
-terraform graph -type=plan | dot -Tpng > graph.png
+terraform init
+terraform graph | dot -Tpng > graph.png
 
 ```
 
