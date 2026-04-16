@@ -188,6 +188,10 @@ This project is built to:
 * Learn Terraform module design
 * Simulate production-grade routing patterns
 
+## Issues Faced
+
+https://medium.com/@akashyy/i-accidentally-committed-an-831mb-file-while-building-terraform-infra-heres-everything-that-bcc549f23d32
+
 ---
 
 ## License
