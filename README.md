@@ -74,4 +74,9 @@ Use this hub as an entry point to explore specific implementations.
 
 ## 📄 License
 
-MIT
+<span>
+    <strong>MIT</strong>
+    <a href="https://github.com/Akash-yy/Terraform-Hub?tab=MIT-1-ov-file">
+      <img src="https://img.shields.io/badge/View-License-blue" />
+    </a>
+  </span>
