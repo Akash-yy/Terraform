@@ -1,8 +1,0 @@
-# Terraform
-.terraform/
-*.tfstate
-*.tfstate.*
-*.tfplan
-
-# OS junk
-.DS_Store
